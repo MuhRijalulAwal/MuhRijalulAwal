@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Freelance Front End Web Developer and Data Enthusiast<br>
+I'm currently Freelance Full Stack Web Developer and Data Enthusiast<br>
 
 
 ## 🌐 Socials:
